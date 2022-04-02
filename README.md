@@ -2,6 +2,9 @@
 
 A.I. playing Omok (a.k.a. Gomoku, Renju)
 
+Based on [kairess's Omok AI](https://github.com/kairess/omok-ai)
+Trying to write model using pytorch
+
 ![](result.png)
 
 ## Train
